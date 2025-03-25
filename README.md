@@ -37,9 +37,9 @@ I'm a self-taught student passionate about technology, learning, and building us
 
 | Project                       | Description                                                       |
 |------------------------------|--------------------------------------------------------------------|
-| [**Carly’s Clippers**](https://github.com/SaicoBys/CarlysClippers) | Revenue and price analysis for a fictional hair salon.           |
+| [**Carly’s Clippers**](https://github.com/SaicoBys/carlys-clipper.git) | Revenue and price analysis for a fictional hair salon.           |
 | [**Temperature Converter**](https://github.com/SaicoBys/TemperatureConverter) | Functions to convert between Fahrenheit and Celsius.             |
-| [**Physics Simulator**](https://github.com/SaicoBys/PhysicsSimulator) | Calculates force, energy, and work using Python functions.       |
+| [**Physics Simulator**](https://github.com/SaicoBys/physics-class.git) | Calculates force, energy, and work using Python functions.       |
 | [**Sal’s Shipping**](https://github.com/SaicoBys/sals-shipping.git) | Calculates the cheapest shipping option based on weight.         |
 
 ---
