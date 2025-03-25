@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Jacob (SaicoBys)
 
-🔄 View this page in [Español 🇪🇸](README.es.md)
+🔄 View this page in [Español 🇩🇴](README.es.md)
 
 I'm a self-taught student passionate about technology, learning, and building useful things with code. I'm currently following the *Computer Science* path at Codecademy, developing strong Python foundations and documenting everything I learn.
 
