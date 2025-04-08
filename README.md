@@ -29,7 +29,6 @@ I'm a self-taught student passionate about technology, learning, and building us
 
 - Organizing and documenting all my learning projects
 - Daily Python practice: control flow, functions, and data structures
-- Preparing tech content for Instagram and LinkedIn
 - Exploring GitHub customization and portfolio building
 - Practicing automating tasks with Python and using the terminal for better workflow
 
