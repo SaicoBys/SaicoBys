@@ -21,6 +21,7 @@ I'm a self-taught student passionate about technology, learning, and building us
 - 🧮 Functions, lists, and list comprehensions
 - 📂 Project structure and file organization
 - 🐙 Git and GitHub basics
+- 💻 Automation with Python
 
 ---
 
@@ -30,6 +31,7 @@ I'm a self-taught student passionate about technology, learning, and building us
 - Daily Python practice: control flow, functions, and data structures
 - Preparing tech content for Instagram and LinkedIn
 - Exploring GitHub customization and portfolio building
+- Practicing automating tasks with Python and using the terminal for better workflow
 
 ---
 
@@ -37,10 +39,10 @@ I'm a self-taught student passionate about technology, learning, and building us
 
 | Project                       | Description                                                       |
 |------------------------------|--------------------------------------------------------------------|
-| [**Carly’s Clippers**](https://github.com/SaicoBys/carlys-clipper.git) | Revenue and price analysis for a fictional hair salon.           |
-| [**Temperature Converter**](https://github.com/SaicoBys/TemperatureConverter) | Functions to convert between Fahrenheit and Celsius.             |
-| [**Physics Simulator**](https://github.com/SaicoBys/physics-class.git) | Calculates force, energy, and work using Python functions.       |
-| [**Sal’s Shipping**](https://github.com/SaicoBys/sals-shipping.git) | Calculates the cheapest shipping option based on weight.         |
+| [**Python Terminal Game**](https://github.com/SaicoBys/python-terminal-game) | Build a text-based game in Python for friends and family to play. |
+| [**Recommendation Software**](https://github.com/SaicoBys/recommendation-software) | Software that makes recommendations based on data structures and algorithms. |
+| [**Creating a Database**](https://github.com/SaicoBys/creating-database) | Build a complete database system with Python.                     |
+| [**CPU Simulator**](https://github.com/SaicoBys/cpu-simulator) | Simulate CPU behavior using Python and computer architecture principles. |
 
 ---
 
@@ -50,6 +52,7 @@ I'm a self-taught student passionate about technology, learning, and building us
 - ✔️ Practiced Python list operations and list comprehensions
 - ✔️ Documented all concepts in Markdown + `.py` files with examples
 - ✔️ Organized my folders and VS Code environment
+- ✔️ Automating tasks and integrating scripts into my workflow
 - 🔜 Next: Learn file handling and error management in Python
 
 ---
